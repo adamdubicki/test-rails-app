@@ -1,3 +1,3 @@
 # README
 
-A sample rails app for me to play learn rails with.
+A sample rails app for me to play/learn rails with.
